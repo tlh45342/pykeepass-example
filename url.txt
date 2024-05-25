@@ -1,0 +1,5 @@
+https://pypi.org/project/pykeepass/
+
+regex search
+
+find_entries(".*chocolate.*", regex=True, flags='i')
